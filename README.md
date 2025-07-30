@@ -27,7 +27,7 @@ This module covers the initial setup of a Java development environment and the f
 
 ### Java Installation Verification
 
-![Java Version Verification](./screenshots/Terminal-java-installation.png)
+![Java Version Verification](Task-1/screenshots/Hello -Word-output.png)
 
 ### HelloWorld Program Output
 
